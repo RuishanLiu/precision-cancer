@@ -1,6 +1,6 @@
 # precision-cancer
 
-Python codes for paper (in submission): Systematic pan-cancer analysis of mutation-treatment interactions using large real-world clinico-genomics data.
+Python codes for paper: [Systematic pan-cancer analysis of mutation-treatment interactions using large real-world clinico-genomics data](https://www.nature.com/articles/s41591-022-01873-5).
 
 The findings from our study are visualized in www.precision-cancer.org.
 
